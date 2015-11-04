@@ -289,7 +289,7 @@ header {
     background-attachment: scroll;
     background-image: url(../img/sfondo.jpg);
     background-position: center center;
-    background-repeat: none;
+    background-repeat: no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
