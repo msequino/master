@@ -294,6 +294,8 @@ header {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    background-size: 50% 100%;
+    background-color: #B4ADB5;
 }
 
 header .intro-text {
