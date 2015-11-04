@@ -146,6 +146,7 @@ fieldset[disabled] .btn-primary.active {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 15px;
     margin-right:28px;
+    margin-top:15px;
     font-weight: 700;
     color: #fff;
     background-color: #fed136;
