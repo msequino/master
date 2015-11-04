@@ -17,7 +17,7 @@ $(function() {
             if (firstName.indexOf(' ') >= 0) {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
-            window.open('mailto:arearicerca@ao.pr.it?subject="Informazioni master"&body="'+message +'"');
+            window.location.href = 'mailto:arearicerca@ao.pr.it?subject=Informazioni master&body='+message +'\n\n\n A firma di:\n' +name;
         },
         filter: function() {
             return $(this).is(":visible");
