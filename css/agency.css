@@ -139,13 +139,13 @@ fieldset[disabled] .btn-primary.active {
 }
 
 .btn-xl {
-    padding: 14px 13px;
+    padding: 8px 10px;
     border-color: #fed136;
     border-radius: 3px;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 15px;
-    margin-right:5px;
+    margin-right:28px;
     font-weight: 700;
     color: #fff;
     background-color: #fed136;
